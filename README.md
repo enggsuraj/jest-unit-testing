@@ -1,9 +1,9 @@
  
- ### Jest Unit testing practice
+ ## Jest Unit testing practice
 
  Documentation of unit testing with practice code snippets
 
- ### What is Unit Testing 
+ ## What is Unit Testing 
 
 ⚡ Unit Testing is a type of software testing where individual units or components of a software are tested. 
 
@@ -13,7 +13,7 @@
 
 ✔ Unit Tests isolate a section of code and verify its correctness. A unit may be an individual function, method, procedure, module, or object.
 
-### Why Unit testing are important
+## Why Unit testing are important
 
 🐞Unit tests help to fix bugs early in the development cycle and save costs.
 
@@ -23,7 +23,7 @@
 
 🎫 Unit tests help with code re-use. Migrate both your code andyour tests to your new project. Tweak the code until the tests run again.
 
-#### About Jest 
+## About Jest 
 
 🎭 Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
