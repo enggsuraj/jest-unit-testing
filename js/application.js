@@ -1,19 +1,24 @@
 const objFunction = {
   add: (a, b) => a + b,
   isNull: () => null,
+  isUndefined: () => {
+    let x;
+    return x;
+  },
+  isTruthy: () => true,
   checkvalue: (x) => x,
   cloneArray: (array) => {
     return [...array];
   },
   createUser: () => {
-    const user = { name: "blogtheorem", ID: 123 };
+    const user = { name: "blogtheorem" };
+    user["ID"] = 123;
     return user;
   },
-  // fetchUser: async () => {
-  //   const response = await fetch("https://api.github.com/users");
-  //   const res = await response.json();
-  //   return res;
-  // },
+  reverseString: (str) => {
+    return str.split("").reverse().join("");
+  },
+  isGreater: () => 5,
 };
 
 // + VALUE
@@ -30,14 +35,8 @@ const negative = (vals) => {
   });
 };
 
-const reverseString = (str) => {
-  let data = str.split("");
-  return data.reverse().join("");
-};
-
 module.exports = {
   objFunction,
   positive,
   negative,
-  reverseString,
 };
