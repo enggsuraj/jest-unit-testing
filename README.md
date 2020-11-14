@@ -5,12 +5,8 @@
 
  ## What is Unit Testing 
 
-<<<<<<< HEAD
-\⚡ Unit Testing is a type of software testing where individual units or components of a software are tested. 
-=======
 ⚡ Unit Testing is a type of software testing where individual units or components of a software are tested. 
 
->>>>>>> 2130965a8483403c1a834ab4db19a0579eb07c17
 💻 The purpose is to validate that each unit of the software code performs as expected. 
 
 👨‍💻 Unit Testing is done during the development (coding phase) of an application by the developers. 
