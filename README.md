@@ -19,7 +19,7 @@
 
 🔥 It helps the developers to understand the code base and enables them to make changes quickly.
 
-📘 Good unit tests serve as project documentation.
+📘 Good unit tests serve as project documentation. 
 
 🎫 Unit tests help with code re-use. Migrate both your code andyour tests to your new project. Tweak the code until the tests run again.
 
