@@ -1,7 +1,7 @@
  
  ## Jest Unit testing practice.
 
- Documentation of unit testing with practice code snippets.
+ Documentation of unit testing with practice code snippets. 
 
  ## What is Unit Testing 
 
