@@ -1,5 +1,5 @@
  
- ## Jest Unit testing practice. 
+ ## Jest Unit testing practice.
 
  Documentation of unit testing with practice code snippets. 
 
